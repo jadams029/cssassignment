@@ -25,3 +25,13 @@ body{
  .class-thing1{
      margin: 25px 25px 25px 25px;
  }
+
+ .margin{
+     margin: 5px 10px 20px 40px;
+     border: solid orangered;
+ }
+
+ .padding{
+     padding: 10px 20px 30px 40px;
+     border: dashed ivory;
+ }
