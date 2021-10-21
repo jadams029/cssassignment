@@ -1,0 +1,27 @@
+body{
+    background-image:url(../../HTMLCSSPreWork/assets/nintendo-distressed.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#id-thing1{
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+    color: midnightblue;
+}
+.wrapper{
+    border: 5px dashed rgb(9, 6, 194);
+}
+ #id-thing2{
+     height: 150px;
+     width: 150px;
+     color: palegreen;
+     border: solid indigo;
+     margin-left: 25px;
+ }
+
+ .class-thing1{
+     margin: 25px 25px 25px 25px;
+ }
